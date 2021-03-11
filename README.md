@@ -1,0 +1,2 @@
+# docclass
+PYTHON2
